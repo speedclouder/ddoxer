@@ -1,0 +1,14 @@
+{
+  "name": "ddoxer",
+  "version": "0.0.4",
+  "description": "www",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "html",
+    "javascript",
+    "css"
+  ],
+  "author": "Tadas",
+  "license": "free4all"
+}
